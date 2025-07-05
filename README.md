@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+By learning how to do webpages I am acomplishing more learning of the code language allowing me to later do better webpages.
 
-{Provide a description of your software}
+This software is a webpage with an image and text that promptly say hello world!
 
-{Describe your purpose for creating this software.}
+My software is testing my ability to do a webpage that shows some text and image.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -25,6 +25,4 @@ JavaScript for handling dynamic content (e.g., updating the greeting)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+I did not use any website to do this activity, I did all the code.
