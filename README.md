@@ -6,9 +6,7 @@ This software is a webpage with an image and text that promptly say hello world!
 
 My software is testing my ability to do a webpage that shows some text and image.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/PZ4VZ02k7RY)
 
 # Development Environment
 To develop this software, I used the following tools:
